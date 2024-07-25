@@ -1,0 +1,39 @@
+top consumable vegetables
+1. Tomatoes
+Usage: Fresh, sauces, soups, and salads.
+Region: Global.
+2. Potatoes
+Usage: Baked, fried, mashed, and used in a variety of dishes.
+Region: Global.
+3. Onions
+Usage: Fresh, sautéed, and as a flavor base in many dishes.
+Region: Global.
+4. Carrots
+Usage: Raw, cooked, and in soups and salads.
+Region: Global.
+5. Lettuce
+Usage: Salads, sandwiches, and wraps.
+Region: Global.
+
+Top consumable crops in world
+
+The most consumed crops globally are staples that form the basis of diets in many regions. Here's a list of the top 10 most consumable crops:
+
+1. Rice
+Region: Asia, especially South and Southeast Asia.
+Usage: Staple food, used in a variety of dishes.
+2. Wheat
+Region: Global, with major producers in Europe, North America, and Asia.
+Usage: Bread, pasta, cereals, and other baked goods.
+3. Maize (Corn)
+Region: Americas, Africa, and increasingly in Asia.
+Usage: Food products, animal feed, and industrial uses like biofuel.
+4. Potatoes
+Region: Global, with significant production in Europe, Asia, and the Americas.
+Usage: Baked, mashed, fried, and used in processed foods.
+5. Soybeans
+Region: Mainly the Americas (United States, Brazil), and increasingly in Asia.
+Usage: Soy products (tofu, soy milk), animal feed, and oil.
+6. Sugarcane
+Region: Tropics and subtropics (Brazil, India, China).
+Usage: Sugar production, ethanol, and various processed foods

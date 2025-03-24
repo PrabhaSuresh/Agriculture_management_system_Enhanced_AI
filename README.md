@@ -27,6 +27,7 @@ Welcome to the **Agriculture Management System**! 🌾 This AI-powered system he
 1️⃣ Clone the repository:  
 ```bash
 git clone https://github.com/PrabhaSuresh/Agriculture_management_system_Enhanced_AI.git
+```
 ##🛠️ Future Enhancements
 🚀 **Real-time weather integration 🌦️**
 **🚀 Automated pest detection using Computer Vision 🐛**
